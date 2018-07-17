@@ -9,3 +9,5 @@ Creating a new branch is quick & simple.
 
 
 Dev的内容
+
+fre 分支内容
